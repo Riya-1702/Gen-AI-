@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+reportlab
+sqlite3
+hashlib
